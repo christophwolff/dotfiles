@@ -126,4 +126,4 @@ export PATH="/usr/local/opt/php@7.1/bin:$PATH"
 export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
 export GIT_EDITOR=vi
 export GIT_SEQUENCE_EDITOR=vi
-alias config='/usr/bin/git --git-dir=/Users/christophwolff/.dotfiles/ --work-tree=/Users/christophwolff'
+alias df='/usr/bin/git --git-dir=/Users/christophwolff/.dotfiles/ --work-tree=/Users/christophwolff'
